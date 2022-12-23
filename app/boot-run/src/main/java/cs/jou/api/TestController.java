@@ -10,6 +10,6 @@ public class TestController {
 
     @GetMapping
     public String fun1() {
-        return "ÒÔºóÕâÀï¾ÍÊÇ¶ÔÕ½Æ½Ì¨";
+        return "ä»¥åå°±åœ¨è¿™é‡Œå†™apiæ¥å£äº†";
     }
-}
+}g'i'
