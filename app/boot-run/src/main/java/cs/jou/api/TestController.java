@@ -12,4 +12,4 @@ public class TestController {
     public String fun1() {
         return "以后就在这里写api接口了";
     }
-}g'i'
+}
